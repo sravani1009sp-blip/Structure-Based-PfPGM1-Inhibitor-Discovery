@@ -61,3 +61,30 @@ AD53 (Tectograndone)
 
 **11. Trajectory Analysis**  
 RMSD • RMSF • H-bonds • Radius of Gyration • Energy    
+
+---
+
+## Target Protein
+
+**Protein:** Phosphoglycerate mutase 1 (PfPGM1)  
+**Organism:** *Plasmodium falciparum*  
+**PDB ID:** 1XQ9  
+**Structure:** X-ray crystallographic structure  
+**Resolution:** 2.58 Å  
+**Oligomeric state:** Homotetramer
+
+PfPGM1 was selected as the target protein because of its role in the glycolytic pathway of *Plasmodium falciparum*. The protein structure used in this study was obtained from the RCSB Protein Data Bank.
+
+### Reference Protein Selection
+
+Because experimentally characterized active-site information was not available for 1XQ9, BLASTp was used to identify a suitable reference protein.
+
+| PDB ID | Sequence Identity | Selection |
+|---|---:|---|
+| 3KKK | 99% | Not selected |
+| 4ODI | 75% | **Selected** |
+
+Although 3KKK showed higher sequence identity, 4ODI was selected because published active-site information was available for this structure. The active-site information from 4ODI was subsequently mapped onto 1XQ9 using structural alignment.
+
+---
+
