@@ -10,32 +10,54 @@ The study combines **active-site identification, molecular docking, drug-likenes
 
 ---
 
-## Research Workflow
 
+   ## Research Workflow
+
+**1. Target Protein**  
 PfPGM1 (PDB: 1XQ9)
-        ↓
-Protein Preparation
-        ↓
-BLASTp-based Reference Identification
-        ↓
-Active-Site Prediction
-(SiteMap + Structural Alignment)
-        ↓
-Phytochemical Library
-(58 compounds)
-        ↓
-Molecular Docking
-(AutoDock Vina)
-        ↓
-Top 10 Docking Hits
-        ↓
-SwissADME Analysis
-        ↓
-AD53 (Tectograndone)
-        ↓
-10 ns Molecular Dynamics Simulation
-(GROMACS)
-        ↓
-Trajectory Analysis
-(RMSD, RMSF, H-bonds, Rg, Energy)
 
+↓
+
+**2. Protein Preparation**
+
+↓
+
+**3. BLASTp-based Reference Identification**
+
+↓
+
+**4. Active-Site Prediction**  
+SiteMap + Structural Alignment
+
+↓
+
+**5. Phytochemical Library**  
+58 compounds
+
+↓
+
+**6. Molecular Docking**  
+AutoDock Vina
+
+↓
+
+**7. Top 10 Docking Hits**
+
+↓
+
+**8. SwissADME Analysis**
+
+↓
+
+**9. Lead Selection**  
+AD53 (Tectograndone)
+
+↓
+
+**10. Molecular Dynamics Simulation**  
+10 ns using GROMACS
+
+↓
+
+**11. Trajectory Analysis**  
+RMSD • RMSF • H-bonds • Radius of Gyration • Energy    
