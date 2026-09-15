@@ -1,0 +1,387 @@
+MODEL 1
+REMARK VINA RESULT:    -7.476      0.000      0.000
+REMARK INTER + INTRA:          -7.913
+REMARK INTER:                  -7.913
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      16.761  59.458  31.656  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      17.502  58.747  30.561  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      18.806  59.119  30.220  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      19.490  58.452  29.199  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      18.871  57.402  28.508  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      19.585  56.695  27.432  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      18.921  55.588  26.710  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      17.616  55.206  27.042  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      16.899  55.923  28.130  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      15.758  55.638  28.469  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      17.013  54.150  26.335  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      17.697  53.485  25.316  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      18.995  53.869  24.992  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      19.602  54.913  25.683  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      20.731  57.016  27.127  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      17.575  57.025  28.840  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      16.892  57.697  29.864  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      15.742  53.747  26.628  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      15.169  54.510  26.805  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      20.878  55.222  25.296  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      20.844  55.585  24.381  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.779     15.381     17.202
+REMARK INTER + INTRA:          -7.176
+REMARK INTER:                  -7.176
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      18.216  40.924  26.412  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      17.488  40.530  25.160  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      16.876  39.277  25.053  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      16.199  38.916  23.883  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      16.130  39.811  22.808  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      15.419  39.438  21.573  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      15.352  40.392  20.445  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      15.961  41.649  20.540  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      16.678  42.020  21.789  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      17.230  43.103  21.937  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      15.880  42.532  19.448  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      15.204  42.170  18.281  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      14.600  40.919  18.193  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      14.674  40.036  19.266  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      14.879  38.340  21.472  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      16.736  41.058  22.906  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      17.414  41.416  24.080  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      16.460  43.766  19.500  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      17.219  43.766  20.106  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      14.052  38.830  19.090  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      13.571  38.606  19.919  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.693      8.227     10.291
+REMARK INTER + INTRA:          -7.085
+REMARK INTER:                  -7.085
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      23.398  59.278  28.246  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      24.047  59.009  26.920  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      23.610  57.956  26.110  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      24.220  57.710  24.875  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      25.277  58.521  24.441  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      25.924  58.269  23.142  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      27.038  59.132  22.694  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      27.485  60.189  23.496  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      26.828  60.439  24.806  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      27.169  61.347  25.555  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      28.548  60.990  23.041  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      29.156  60.743  21.809  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      28.706  59.691  21.015  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      27.656  58.891  21.455  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      25.545  57.346  22.425  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      25.717  59.569  25.240  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      25.104  59.812  26.477  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      29.013  62.030  23.792  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      29.761  62.466  23.354  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      27.282  57.881  20.611  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      27.640  58.079  19.715  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.637     15.593     17.289
+REMARK INTER + INTRA:          -7.025
+REMARK INTER:                  -7.025
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      16.901  37.982  26.202  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      16.851  38.996  25.097  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      17.472  40.241  25.241  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      17.421  41.182  24.207  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      16.746  40.882  23.017  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      16.689  41.868  21.924  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      15.973  41.539  20.672  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      15.348  40.297  20.517  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      15.409  39.305  21.623  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      14.884  38.201  21.551  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      14.675  40.016  19.314  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      14.625  40.957  18.283  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      15.250  42.190  18.444  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      15.918  42.480  19.629  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      17.232  42.963  22.043  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      16.127  39.647  22.866  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      16.179  38.707  23.905  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      14.052  38.817  19.122  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      13.097  38.939  18.998  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      16.502  43.716  19.698  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      17.356  43.682  19.210  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -6.152     27.802     28.823
+REMARK INTER + INTRA:          -6.512
+REMARK INTER:                  -6.512
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      23.210  74.316   6.876  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      22.391  73.831   5.716  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      22.696  74.229   4.410  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      21.928  73.773   3.332  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      20.845  72.912   3.556  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      20.033  72.428   2.427  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      18.893  71.520   2.676  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      18.578  71.115   3.979  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      19.402  71.607   5.114  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      19.181  71.290   6.277  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      17.487  70.251   4.180  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      16.722  69.797   3.104  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      17.041  70.202   1.811  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      18.117  71.058   1.599  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      20.295  72.773   1.277  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      20.536  72.513   4.851  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      21.307  72.972   5.928  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      17.147  69.833   5.435  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      16.806  68.924   5.416  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      18.356  71.403   0.296  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      17.963  70.712  -0.284  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -5.998     21.591     23.287
+REMARK INTER + INTRA:          -6.349
+REMARK INTER:                  -6.349
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      27.269  44.043   7.798  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      26.082  44.960   7.809  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      24.802  44.470   8.089  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      23.699  45.331   8.098  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      23.871  46.695   7.827  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      22.715  47.607   7.835  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      22.908  49.045   7.547  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      24.185  49.547   7.265  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      25.348  48.621   7.259  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      26.490  48.997   7.021  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      24.334  50.919   6.995  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      23.233  51.777   7.004  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      21.966  51.271   7.286  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      21.805  49.915   7.554  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      21.588  47.184   8.079  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      25.139  47.190   7.548  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      26.242  46.324   7.539  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      25.561  51.449   6.716  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      26.126  50.797   6.272  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      20.526  49.508   7.819  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      19.925  49.934   7.166  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -5.998     23.541     25.181
+REMARK INTER + INTRA:          -6.349
+REMARK INTER:                  -6.349
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      20.073  59.216   1.263  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      21.128  59.562   2.274  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      21.760  58.562   3.019  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      22.742  58.892   3.960  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      23.100  60.231   4.161  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      24.132  60.586   5.149  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      24.501  62.003   5.352  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      23.875  63.013   4.612  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      22.834  62.649   3.616  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      22.249  63.484   2.936  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      24.250  64.352   4.831  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      25.229  64.679   5.770  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      25.849  63.670   6.502  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      25.487  62.342   6.295  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      24.692  59.713   5.807  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      22.476  61.231   3.424  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      21.492  60.897   2.483  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      23.664  65.366   4.130  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      23.596  66.168   4.673  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      26.147  61.419   7.060  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      26.967  61.836   7.408  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -5.984     27.932     29.097
+REMARK INTER + INTRA:          -6.334
+REMARK INTER:                  -6.334
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      21.584  73.563   5.224  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      20.496  72.593   4.866  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      19.868  71.826   5.852  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      18.855  70.924   5.511  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      18.461  70.782   4.174  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      17.396  69.834   3.808  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      16.989  69.694   2.392  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      17.611  70.456   1.396  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      18.686  71.411   1.772  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      19.269  72.107   0.950  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      17.201  70.297   0.060  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      16.190  69.396  -0.279  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      15.575  68.642   0.717  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      15.973  68.789   2.042  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      16.839  69.158   4.668  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      19.081  71.540   3.188  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      20.097  72.443   3.533  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      17.782  71.020  -0.942  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      18.749  70.949  -0.904  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      15.314  68.007   2.952  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      15.933  67.309   3.265  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -5.887     15.787     19.155
+REMARK INTER + INTRA:          -6.231
+REMARK INTER:                  -6.231
+REMARK INTRA:                   0.000
+REMARK UNBOUND:                 0.000
+REMARK  Name = C:\Users\HP\Downloads\Anthraquinone_pdb\AD52.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_11  and  O_12
+REMARK    3  A    between atoms: C_15  and  O_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      11.310  35.508  20.315  0.00  0.00    +0.044 C 
+ATOM      2  C   UNL     1      12.208  36.700  20.164  0.00  0.00    -0.050 A 
+ATOM      3  C   UNL     1      12.320  37.360  18.936  0.00  0.00    +0.004 A 
+ATOM      4  C   UNL     1      13.160  38.471  18.802  0.00  0.00    +0.013 A 
+ATOM      5  C   UNL     1      13.895  38.932  19.901  0.00  0.00    +0.033 A 
+ATOM      6  C   UNL     1      14.781  40.101  19.767  0.00  0.00    +0.198 C 
+ATOM      7  C   UNL     1      15.552  40.579  20.936  0.00  0.00    +0.078 A 
+ATOM      8  C   UNL     1      15.448  39.927  22.170  0.00  0.00    +0.078 A 
+ATOM      9  C   UNL     1      14.553  38.747  22.299  0.00  0.00    +0.198 C 
+ATOM     10  O   UNL     1      14.416  38.133  23.350  0.00  0.00    -0.286 OA
+ATOM     11  C   UNL     1      16.197  40.406  23.261  0.00  0.00    +0.129 A 
+ATOM     14  C   UNL     1      17.034  41.515  23.125  0.00  0.00    +0.050 A 
+ATOM     15  C   UNL     1      17.132  42.159  21.895  0.00  0.00    +0.050 A 
+ATOM     16  C   UNL     1      16.398  41.694  20.808  0.00  0.00    +0.129 A 
+ATOM     19  O   UNL     1      14.885  40.686  18.692  0.00  0.00    -0.286 OA
+ATOM     20  C   UNL     1      13.790  38.282  21.125  0.00  0.00    +0.033 A 
+ATOM     21  C   UNL     1      12.948  37.169  21.256  0.00  0.00    +0.015 A 
+ENDROOT
+BRANCH  11  12
+ATOM     12  O   UNL     1      16.124  39.799  24.481  0.00  0.00    -0.506 OA
+ATOM     13  H   UNL     1      16.979  39.412  24.727  0.00  0.00    +0.292 HD
+ENDBRANCH  11  12
+BRANCH  16  17
+ATOM     17  O   UNL     1      16.557  42.389  19.640  0.00  0.00    -0.506 OA
+ATOM     18  H   UNL     1      17.063  43.210  19.835  0.00  0.00    +0.292 HD
+ENDBRANCH  16  17
+TORSDOF 2
+ENDMDL
