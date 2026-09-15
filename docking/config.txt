@@ -1,0 +1,15 @@
+receptor= pro.pdbqt
+
+center_x= 15.638
+center_y= 58.736
+center_z= 18.558
+
+
+size_x= 60
+size_y= 60
+size_z= 60
+
+exhaustiveness= 8
+num_modes= 9
+energy_range= 3
+
