@@ -353,3 +353,64 @@ Among the 58 screened phytochemicals, **AD53 (Tectograndone)** showed the strong
 AD53 can therefore be considered a **promising computational lead for further investigation**, while experimental validation is required before drawing conclusions about its biological activity.
 
 > **Note:** The results presented in this repository are computational predictions and should not be interpreted as experimental confirmation of PfPGM1 inhibition.
+
+
+---
+
+
+## Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Protein structure | RCSB Protein Data Bank |
+| Sequence analysis | BLASTp |
+| Protein visualization | PyMOL |
+| Structural analysis | UCSF Chimera |
+| Binding-site prediction | Schrödinger SiteMap |
+| Molecular docking | AutoDock Vina |
+| Docking preparation | AutoDock Tools |
+| ADME analysis | SwissADME |
+| Molecular dynamics | GROMACS |
+| Trajectory analysis | GROMACS analysis tools |
+
+
+---
+
+## Repository Structure
+
+Structure-Based-PfPGM1-Inhibitor-Discovery/
+│
+├── docking/
+│   ├── output/
+│   └── receptor/
+│
+├── phytochemical-library/
+│   └── AD1–AD58.pdbqt
+│
+├── protein/
+│   ├── 1xq9/
+│   ├── grid box config/
+│   └── prepared protein/
+│
+├── molecular-dynamics/
+│   ├── 1XQ9.pdb
+│   ├── AD53.pdb
+│   ├── complex.pdb
+│   ├── rmsd.png
+│   ├── rmsf.png
+│   ├── hb.png
+│   ├── gyrate1.png
+│   └── energy.png
+│
+├── swissADME/
+│   └── SwissAdme.xlsx
+│
+├── top-10-docking-hits/
+│   └── docking-results.xlsx
+│
+├── report/
+│   └── report.docx
+│
+└── README.md
+
+
