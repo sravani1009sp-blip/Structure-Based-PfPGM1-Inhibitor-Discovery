@@ -378,6 +378,7 @@ AD53 can therefore be considered a **promising computational lead for further in
 
 ## Repository Structure
 
+```text
 Structure-Based-PfPGM1-Inhibitor-Discovery/
 │
 ├── docking/
@@ -412,5 +413,3 @@ Structure-Based-PfPGM1-Inhibitor-Discovery/
 │   └── report.docx
 │
 └── README.md
-
-
